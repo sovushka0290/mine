@@ -1,6 +1,6 @@
 aiogram==3.7.0
 gspread-asyncio==2.0.0
-gspread==6.2.1
+gspread==6.0.2
 google-auth==2.29.0
 python-dotenv==1.0.1
 aiohttp==3.9.5
