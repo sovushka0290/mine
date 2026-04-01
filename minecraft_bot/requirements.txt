@@ -1,7 +1,0 @@
-aiogram==3.7.0
-gspread-asyncio
-gspread
-google-auth
-python-dotenv
-aiohttp
-APScheduler
